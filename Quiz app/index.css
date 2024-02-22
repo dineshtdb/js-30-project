@@ -58,3 +58,9 @@ border-radius: 5px;
 cursor: pointer;
 display: none;
 }
+.correct{
+  background-color:#9aeabc;
+}
+.incorrect{
+ background-color:#ff9393;
+}
