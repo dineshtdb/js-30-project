@@ -1,0 +1,4 @@
+This interactive quiz application empowers users to create and manage questions along with their corresponding correct answers.
+Users engage by selecting answers, and the application dynamically reveals whether their choices are correct. Furthermore, 
+users have the capability to review their scores, enhancing their learning experience. The application harnesses the power of 
+HTML, CSS, and JavaScript to deliver an engaging and interactive quiz platform.
