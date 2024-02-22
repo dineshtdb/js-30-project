@@ -42,9 +42,13 @@ text-align: left;
 border-radius: 5px;
 transition: all 0.3s;
 }
-.btn:hover{
+.btn:hover:not([disabled]){
     background: #222;
     color:#fff;
+
+}
+.btn:disabled{
+    cursor:no-drop;
 }
 #nextBtn{
 background: #001e4d;
