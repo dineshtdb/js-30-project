@@ -1,0 +1,5 @@
+This is a QR code generator app designed to create QR codes for links or text inputs. 
+It utilizes HTML, CSS, and JavaScript for its functionality. Enhancements could include improving the user interface for clarity, 
+  ensuring responsiveness across devices, implementing input validation, providing feedback to users, offering customization options,
+handling errors gracefully, and ensuring accessibility features are incorporated. These enhancements aim to create a more user-friendly
+and robust QR code generator experience.
